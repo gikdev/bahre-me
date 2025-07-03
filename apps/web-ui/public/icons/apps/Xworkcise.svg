@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradient_1" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="128" y2="256">
+      <stop offset="0" stop-color="#00C950" />
+      <stop offset="1" stop-color="#008236" />
+    </linearGradient>
+    <clipPath id="clip_path_2">
+      <rect width="256" height="256" rx="40" />
+    </clipPath>
+  </defs>
+  <g clip-path="url(#clip_path_2)">
+    <rect width="256" height="256" fill="url(#gradient_1)" fill-rule="evenodd" />
+    <g transform="translate(32 32)">
+      <path d="M55.6031 86.7163C61.8528 92.966 71.9855 92.966 78.2352 86.7163C84.4848 80.4667 84.4848 70.334 78.2351 64.0843C78.2351 64.0843 64.0912 49.9483 64.0912 49.9483C70.3419 56.1947 80.4728 56.1911 86.7191 49.9404C92.9655 43.6897 92.962 33.5588 86.7112 27.3124C86.7112 27.3124 64.0872 4.68841 64.0872 4.68841C57.8398 -1.56124 47.7089 -1.56303 41.4592 4.68441C35.2096 10.9319 35.2078 21.0628 41.4552 27.3124C41.4552 27.3124 27.3192 13.1684 27.3192 13.1684C21.0696 6.91876 10.9369 6.91876 4.68724 13.1684C-1.56242 19.4181 -1.56242 29.5508 4.68724 35.8004C4.68724 35.8004 55.6031 86.7163 55.6031 86.7163Z" fill="none" stroke-width="12" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" transform="translate(85.165 15.428)" />
+      <path d="M0 11.2L11.2 0" fill="none" stroke-width="12" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" transform="translate(20 160.8)" />
+      <path d="M0 11.2L11.2 0" fill="none" stroke-width="12" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" transform="translate(160.8 20)" />
+      <path d="M27.3112 86.7144C33.5586 92.964 43.6895 92.9658 49.9391 86.7184C56.1888 80.4709 56.1906 70.34 49.9432 64.0904C49.9432 64.0904 64.0792 78.2344 64.0792 78.2344C70.3288 84.484 80.4615 84.484 86.7112 78.2344C92.9608 71.9847 92.9608 61.852 86.7112 55.6024C86.7112 55.6024 35.7992 4.69037 35.7992 4.69037C31.7565 0.64576 25.8629 -0.934341 20.3391 0.545479C14.8154 2.0253 10.501 6.34013 9.02181 11.8641C7.5426 17.388 9.12335 23.2814 13.1684 27.3236C13.1684 27.3236 27.3124 41.4596 27.3124 41.4596C21.0628 35.2122 10.9319 35.214 4.68441 41.4636C-1.56304 47.7133 -1.56124 57.8442 4.68842 64.0916C4.68842 64.0916 27.3112 86.7144 27.3112 86.7144Z" fill="none" stroke-width="12" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" transform="translate(15.433 85.166)" />
+      <path d="M0 38.4L38.4 0" fill="none" stroke-width="12" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" transform="translate(76.8 76.8)" />
+    </g>
+  </g>
+</svg>

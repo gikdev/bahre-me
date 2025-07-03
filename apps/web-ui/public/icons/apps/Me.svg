@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradient_1" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="256" y2="256">
+      <stop offset="0" stop-color="#297BFD" />
+      <stop offset="1" stop-color="#00C14D" />
+    </linearGradient>
+    <clipPath id="clip_path_2">
+      <rect width="256" height="256" rx="40" />
+    </clipPath>
+  </defs>
+  <g clip-path="url(#clip_path_2)" transform="scale(1 1)">
+    <rect width="256" height="256" fill="url(#gradient_1)" fill-rule="evenodd" />
+    <g transform="matrix(1 0 0 1 32 32)">
+      <path d="M7.76 19.36C2.95598 22.2462 0.0122833 27.4356 0 33.04C0 33.04 0 58.96 0 58.96C0.0122375 64.5643 2.9559 69.7537 7.7599 72.64C7.7599 72.64 31.7599 87.0399 31.7599 87.0399C36.8308 90.0866 43.169 90.0866 48.2399 87.0399C48.2399 87.0399 80 68 80 68L80 24L40 0L7.76 19.36C7.76 19.36 7.76 19.36 7.76 19.36Z" fill="none" stroke-width="12" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" transform="translate(16 84)" />
+      <path d="M37.92 22.8L0 0" fill="none" stroke-width="12" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" transform="translate(18.08 109.2)" />
+      <path d="M0 24L40 0" fill="none" stroke-width="12" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" transform="translate(56 108)" />
+      <path d="M0 0L0 41.36" fill="none" stroke-width="12" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" transform="translate(56 132)" />
+      <path d="M0 24L0 68C0 68 31.76 87.04 31.76 87.04C36.8309 90.0866 43.1691 90.0866 48.24 87.04C48.24 87.04 72.24 72.64 72.24 72.64C77.044 69.7538 79.9877 64.5644 80 58.96C80 58.96 80 33.04 80 33.04C79.9876 27.4354 77.0438 22.246 72.2397 19.3599C72.2397 19.3599 40 0 40 0L0 24L0 24Z" fill="none" stroke-width="12" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" transform="translate(96 84)" />
+      <path d="M40 24L0 0" fill="none" stroke-width="12" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" transform="translate(96 108)" />
+      <path d="M0 22.8L37.92 0" fill="none" stroke-width="12" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" transform="translate(136 109.2)" />
+      <path d="M0 0L0 41.36" fill="none" stroke-width="12" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" transform="translate(136 132)" />
+      <path d="M7.76 16.6851C2.95598 19.5714 0.0122833 24.7608 0 30.3651C0 30.3651 0 65.3251 0 65.3251L40 89.3251L80 65.3251C80 65.3251 80 30.3651 80 30.3651C79.9876 24.7604 77.0438 19.5711 72.2397 16.685C72.2397 16.685 48.2397 2.28496 48.2397 2.28496C43.1688 -0.761652 36.8307 -0.761652 31.7597 2.28496C31.7597 2.28496 7.75974 16.685 7.75974 16.685C7.75974 16.685 7.76 16.6851 7.76 16.6851Z" fill="none" stroke-width="12" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" transform="translate(56 18.675)" />
+      <path d="M37.92 22.8L0 0" fill="none" stroke-width="12" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" transform="translate(58.08 41.2)" />
+      <path d="M0 22.8L37.92 0" fill="none" stroke-width="12" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" transform="translate(96 41.2)" />
+      <path d="M0 44L0 0" fill="none" stroke-width="12" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" transform="translate(96 64)" />
+    </g>
+  </g>
+</svg>

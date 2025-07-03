@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradient_1" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="256" y2="256">
+      <stop offset="0" stop-color="#7CCF00" />
+      <stop offset="1" stop-color="#497D00" />
+    </linearGradient>
+    <clipPath id="clip_path_2">
+      <rect width="256" height="256" rx="40" />
+    </clipPath>
+  </defs>
+  <g clip-path="url(#clip_path_2)">
+    <rect width="256" height="256" fill="url(#gradient_1)" fill-rule="evenodd" />
+    <g transform="translate(32 32)">
+      <path d="M72 72C111.764 72 144 39.7645 144 0C144 0 0 0 0 0C0 39.7645 32.2355 72 72 72C72 72 72 72 72 72Z" fill="none" stroke-width="12" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" transform="translate(24 96)" />
+      <path d="M0 0L80 0" fill="none" stroke-width="12" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" transform="translate(56 168)" />
+      <path d="M0 48L20 0" fill="none" stroke-width="12" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" transform="translate(156 48)" />
+      <path d="M2.03476 0C4.19476 0.799999 8.43475 4.24 8.03476 10.88C7.55476 17.52 0.594757 20.48 0.0347672 27.04C-0.365234 33.28 2.75476 36.96 5.87476 40" fill="none" stroke-width="12" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" transform="translate(127.965 24)" />
+      <path d="M1.96912 0C4.12913 0.799999 8.36913 4.24 7.88912 10.88C7.48912 17.52 0.44912 20.48 0.0491257 27.04C-0.430878 33.28 2.68913 36.96 5.80913 40" fill="none" stroke-width="12" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" transform="translate(88.031 24)" />
+      <path d="M2.03475 0C4.19475 0.799999 8.43475 4.24 8.03475 10.88C7.55475 17.52 0.594749 20.48 0.0347481 27.04C-0.365253 33.28 2.75475 36.96 5.95475 40" fill="none" stroke-width="12" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" transform="translate(47.965 24)" />
+    </g>
+  </g>
+</svg>

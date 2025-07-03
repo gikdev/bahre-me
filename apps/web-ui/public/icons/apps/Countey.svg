@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradient_1" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="256" y2="256">
+      <stop offset="0" stop-color="#F0B100" />
+      <stop offset="1" stop-color="#A65F00" />
+    </linearGradient>
+    <clipPath id="clip_path_2">
+      <rect width="256" height="256" rx="40" />
+    </clipPath>
+  </defs>
+  <g clip-path="url(#clip_path_2)">
+    <rect width="256" height="256" fill="url(#gradient_1)" fill-rule="evenodd" />
+    <g transform="translate(32 32)">
+      <path d="M0 0L0 128" fill="none" stroke-width="12" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" transform="translate(32 32)" />
+      <path d="M0 0L0 128" fill="none" stroke-width="12" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" transform="translate(72 32)" />
+      <path d="M0 0L0 128" fill="none" stroke-width="12" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" transform="translate(112 32)" />
+      <path d="M0 0L0 128" fill="none" stroke-width="12" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" transform="translate(152 32)" />
+      <path d="M160 0L0 96" fill="none" stroke-width="12" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" transform="translate(16 48)" />
+    </g>
+  </g>
+</svg>

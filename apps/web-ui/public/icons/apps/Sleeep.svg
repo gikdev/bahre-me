@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradient_1" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="256" y2="256">
+      <stop offset="0" stop-color="#2B7FFF" />
+      <stop offset="1" stop-color="#1447E6" />
+    </linearGradient>
+    <clipPath id="clip_path_2">
+      <rect width="256" height="256" rx="40" />
+    </clipPath>
+  </defs>
+  <g clip-path="url(#clip_path_2)" transform="matrix(1 -0 0 1 0 0)">
+    <rect width="256" height="256" fill="url(#gradient_1)" fill-rule="evenodd" />
+    <g transform="matrix(1 0 -0 1 32 31)">
+      <path d="M72 1.52588e-05C52.1177 19.8823 52.1177 52.1178 72 72C91.8822 91.8823 124.118 91.8823 144 72C144 111.765 111.764 144 72 144C32.2355 144 0 111.764 0 72C7.62939e-06 32.2355 32.2355 0 72 0" fill="none" stroke-width="12" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" transform="translate(24 24)" />
+      <path d="M0 0L0 32" fill="none" stroke-width="12" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" transform="translate(160 24)" />
+      <path d="M32 0L0 0" fill="none" stroke-width="12" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" transform="translate(144 40)" />
+    </g>
+  </g>
+</svg>
