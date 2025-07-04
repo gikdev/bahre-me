@@ -7,13 +7,13 @@ export const Route = createRootRoute({
 });
 
 function RootLayout() {
-	return (
+  return (
 		<div className="flex flex-col h-dvh overflow-hidden fixed inset-0">
-			<div className="flex-1 overflow-y-auto">
+			<div className="flex-1 overflow-y-auto flex flex-col">
 				<Outlet />
 			</div>
 
-			<TanStackRouterDevtools />
+			<TanStackRouterDevtools position="bottom-right" />
 
 			<Dock />
 		</div>
